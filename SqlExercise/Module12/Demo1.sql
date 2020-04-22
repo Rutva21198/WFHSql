@@ -1,0 +1,35 @@
+USE MemDemo
+
+CREATE TABLE MemoryTable(id INTEGER NOT NULL PRIMARY KEY NONCLUSTERED HASH WITH (BUCKET_COUNT = 100),date_value DATETIME NULL)
+WITH (MEMORY_OPTIMIZED = ON, DURABILITY = SCHEMA_AND_DATA);
+
+
+CREATE TABLE DiskTable(id INTEGER NOT NULL PRIMARY KEY NONCLUSTERED,date_value DATETIME NULL);
+ 
+BEGIN TRAN
+	DECLARE @Diskid int = 1
+	WHILE @Diskid <= 500
+	BEGIN
+		INSERT INTO DiskTable VALUES (@Diskid, GETDATE())
+		SET @Diskid += 1
+	END
+COMMIT;
+
+SELECT COUNT(*) FROM DiskTable;
+
+BEGIN TRAN
+	DECLARE @Memid int = 1
+	WHILE @Memid <= 500
+	BEGIN
+		INSERT INTO MemoryTable VALUES (@Memid, GETDATE())
+		SET @Memid += 1
+	END
+COMMIT;
+
+SELECT COUNT(*) FROM MemoryTable;
+
+DELETE FROM DiskTable;
+
+DELETE FROM MemoryTable;
+
+SELECT o.Name, m.* FROM sys.dm_db_xtp_table_memory_stats m JOIN sys.sysobjects o ON m.object_id = o.id
