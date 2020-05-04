@@ -1,0 +1,12 @@
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.exe
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.deps.json
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.runtimeconfig.json
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.runtimeconfig.dev.json
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.dll
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.pdb
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.AssemblyInfoInputs.cache
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.AssemblyInfo.cs
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.dll
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.pdb
+C:\Users\Rutva\Desktop\WFH\C#\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.genruntimeconfig.cache

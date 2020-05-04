@@ -1,0 +1,13 @@
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.exe
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.deps.json
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.runtimeconfig.json
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.runtimeconfig.dev.json
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.dll
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.pdb
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.csprojAssemblyReference.cache
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.csproj.CoreCompileInputs.cache
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.AssemblyInfoInputs.cache
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.AssemblyInfo.cs
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.dll
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.pdb
+C:\Users\Rutva\Desktop\WFH\C#\two_dimension_array\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.genruntimeconfig.cache

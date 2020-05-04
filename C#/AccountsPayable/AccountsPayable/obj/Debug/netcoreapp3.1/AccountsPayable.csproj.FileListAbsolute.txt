@@ -1,0 +1,9 @@
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsPayable\AccountsPayable\bin\Debug\netcoreapp3.1\AccountsPayable.deps.json
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsPayable\AccountsPayable\bin\Debug\netcoreapp3.1\AccountsPayable.dll
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsPayable\AccountsPayable\bin\Debug\netcoreapp3.1\AccountsPayable.pdb
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsPayable\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.csprojAssemblyReference.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsPayable\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.csproj.CoreCompileInputs.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsPayable\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.AssemblyInfoInputs.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsPayable\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.AssemblyInfo.cs
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsPayable\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.dll
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsPayable\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.pdb

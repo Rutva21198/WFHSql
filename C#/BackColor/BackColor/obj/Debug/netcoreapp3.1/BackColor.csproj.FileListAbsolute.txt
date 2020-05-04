@@ -1,0 +1,14 @@
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\bin\Debug\netcoreapp3.1\BackColor.exe
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\bin\Debug\netcoreapp3.1\BackColor.dll.config
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\bin\Debug\netcoreapp3.1\BackColor.deps.json
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\bin\Debug\netcoreapp3.1\BackColor.runtimeconfig.json
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\bin\Debug\netcoreapp3.1\BackColor.runtimeconfig.dev.json
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\bin\Debug\netcoreapp3.1\BackColor.dll
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\bin\Debug\netcoreapp3.1\BackColor.pdb
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\obj\Debug\netcoreapp3.1\BackColor.csprojAssemblyReference.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\obj\Debug\netcoreapp3.1\BackColor.csproj.CoreCompileInputs.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\obj\Debug\netcoreapp3.1\BackColor.AssemblyInfoInputs.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\obj\Debug\netcoreapp3.1\BackColor.AssemblyInfo.cs
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\obj\Debug\netcoreapp3.1\BackColor.dll
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\obj\Debug\netcoreapp3.1\BackColor.pdb
+C:\Users\Rutva\Desktop\WFHSql\C#\BackColor\BackColor\obj\Debug\netcoreapp3.1\BackColor.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.exe
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.deps.json
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.runtimeconfig.json
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.runtimeconfig.dev.json
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.dll
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.pdb
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.csproj.CoreCompileInputs.cache
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.AssemblyInfoInputs.cache
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.AssemblyInfo.cs
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.dll
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.pdb
+C:\Users\Rutva\Desktop\WFH\C#\GenericStack\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.genruntimeconfig.cache

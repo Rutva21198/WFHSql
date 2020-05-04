@@ -1,0 +1,9 @@
+C:\Users\Rutva\Desktop\WFHSql\C#\ProductLibrary\ProductLibrary\bin\Debug\netcoreapp3.1\ProductLibrary.deps.json
+C:\Users\Rutva\Desktop\WFHSql\C#\ProductLibrary\ProductLibrary\bin\Debug\netcoreapp3.1\ProductLibrary.dll
+C:\Users\Rutva\Desktop\WFHSql\C#\ProductLibrary\ProductLibrary\bin\Debug\netcoreapp3.1\ProductLibrary.pdb
+C:\Users\Rutva\Desktop\WFHSql\C#\ProductLibrary\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\ProductLibrary\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.AssemblyInfoInputs.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\ProductLibrary\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.AssemblyInfo.cs
+C:\Users\Rutva\Desktop\WFHSql\C#\ProductLibrary\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.dll
+C:\Users\Rutva\Desktop\WFHSql\C#\ProductLibrary\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.pdb
+C:\Users\Rutva\Desktop\WFHSql\C#\ProductLibrary\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.csprojAssemblyReference.cache

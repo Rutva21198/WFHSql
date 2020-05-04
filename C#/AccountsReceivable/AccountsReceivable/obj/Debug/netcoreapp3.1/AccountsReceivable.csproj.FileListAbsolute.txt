@@ -1,0 +1,9 @@
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsReceivable\AccountsReceivable\bin\Debug\netcoreapp3.1\AccountsReceivable.deps.json
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsReceivable\AccountsReceivable\bin\Debug\netcoreapp3.1\AccountsReceivable.dll
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsReceivable\AccountsReceivable\bin\Debug\netcoreapp3.1\AccountsReceivable.pdb
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsReceivable\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.csprojAssemblyReference.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsReceivable\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.csproj.CoreCompileInputs.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsReceivable\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.AssemblyInfoInputs.cache
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsReceivable\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.AssemblyInfo.cs
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsReceivable\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.dll
+C:\Users\Rutva\Desktop\WFHSql\C#\AccountsReceivable\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.pdb
